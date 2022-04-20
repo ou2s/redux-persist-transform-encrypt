@@ -34,11 +34,11 @@
     "redux-persist": "^6.x.x"
   },
   "dependencies": {
-    "crypto-js": "3.1.9-1",
+    "crypto-js": "4.1.1",
     "json-stringify-safe": "^5.0.1"
   },
   "devDependencies": {
-    "@types/crypto-js": "^4.0.1",
+    "@types/crypto-js": "4.1.1",
     "@types/json-stringify-safe": "^5.0.0",
     "@types/redux-persist": "^4.3.1",
     "jest": "^26.5.3",
